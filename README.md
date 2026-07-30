@@ -28,6 +28,8 @@ später beliebig kopiert werden kann.
 
 | Dokument | Inhalt |
 |---|---|
+| [PROJEKTPLAN.md](PROJEKTPLAN.md) | Der vollständige Arbeitsplan: Arbeitspakete, Abhängigkeiten, Zeitplan, Risiken, Governance |
+| [CLAUDE.md](CLAUDE.md) | Betriebsanleitung der KI-Projektleitung (wird von Claude-Sessions automatisch geladen) |
 | [ROADMAP.md](ROADMAP.md) | Meilensteine M1–M4 mit Verweis auf die GitHub Issues |
 | [docs/STRATEGIE.md](docs/STRATEGIE.md) | Phasenmodell, Nischen-Entscheidungsframework, Plattformrisiken |
 | [docs/PIPELINE.md](docs/PIPELINE.md) | Die schlanke Start-Pipeline (3 Rollen) und ihre Ausbaustufen |

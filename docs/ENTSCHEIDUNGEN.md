@@ -6,6 +6,25 @@ Format angelehnt an Architecture Decision Records (ADR).
 
 ---
 
+## 2026-07-30 – KI-Projektleitung durch Opus 5 mit Modell-Delegationsrecht
+
+**Entscheidung:** Die operative Projektleitung übernimmt eine Claude-Session
+(Opus 5) auf diesem Repository. Onboarding und Autonomie-Grenzen stehen in
+[CLAUDE.md](../CLAUDE.md). Die Projektleitung darf selbstständig Agenten aus
+dem geplanten Wellen-Plan ins Leben rufen und je Aufgabe entscheiden, welches
+Modell (Opus-/Sonnet-/Haiku-Klasse) sie ausführt – dokumentationspflichtig
+(Modell + Kosten je Arbeitsergebnis).
+
+**Begründung:** Setzt die Modellstrategie des Ursprungskonzepts (teure Modelle
+für Strategie/Qualität, günstige für Routine) auf Betriebsebene um und macht
+das Projekt session-unabhängig: Alles Wissen liegt im Repo, nicht im Chat.
+
+**Harte Grenzen (unverändert beim Projektinhaber):** Grundsatzentscheidungen,
+Geld/Budget-Deckel, Veröffentlichungs-Freigaben, Kriterien-Änderungen,
+Phasengrenzen.
+
+---
+
 ## 2026-07-30 – Schlanker Start mit 3 Rollen statt 9 Agenten
 
 **Entscheidung:** Die Produktion startet halb-manuell mit drei definierten
