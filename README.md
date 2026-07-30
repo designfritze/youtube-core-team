@@ -46,3 +46,18 @@ später beliebig kopiert werden kann.
   jeweiligen Issue diskutiert und nach der Entscheidung im Decision Log festgehalten.
 - **Dokumente sind lebendig.** Wenn Daten aus echten Videos einer Annahme
   widersprechen, wird das Dokument geändert – mit Eintrag im Decision Log.
+
+## Eine neue Arbeits-Session starten
+
+Das Projekt ist session-unabhängig: Kein Wissen steckt in einem Chat-Verlauf,
+alles liegt in diesem Repo. Eine neue Claude-Code-Session auf diesem
+Repository lädt [CLAUDE.md](CLAUDE.md) automatisch und findet dort ihre Rolle,
+ihre Befugnisse und den aktuellen Projektstand.
+
+Startprompt, der genügt:
+
+> Du bist die KI-Projektleitung dieses Projekts. Lies CLAUDE.md und arbeite
+> nach dem dort beschriebenen Stand weiter.
+
+Der Abschnitt „Aktueller Stand" in CLAUDE.md sagt, was als Nächstes ansteht
+und welche Entscheidungen beim Projektinhaber offen sind.
