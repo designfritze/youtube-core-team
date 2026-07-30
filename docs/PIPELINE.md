@@ -52,21 +52,44 @@ Rückgabe mit konkreten Änderungsauflagen.
 
 ### Produktion, Upload, Analyse (Stufe 1: bewusst manuell)
 
-Voiceover (TTS), Schnitt, Assets, Thumbnail, Titel/Beschreibung/Kapitel,
-Upload und die Auswertung der Statistiken macht in Stufe 1 ein Mensch – und
+Voiceover, Schnitt, Assets, Thumbnail, Titel/Beschreibung/Kapitel, Upload und
+die Auswertung der Statistiken macht in Stufe 1 ein Mensch – und
 **dokumentiert dabei jeden Schritt** (Dauer, Werkzeug, Kosten, Schmerzpunkte).
 Diese Dokumentation ist das Anforderungsdokument für Stufe 2.
+
+## Was dauerhaft menschlich bleibt (Beschluss 2026-07-30)
+
+Drei Schritte sind **nicht** Automatisierungskandidaten, sondern der Kern des
+Winkels ([WINKEL.md](WINKEL.md), Bausteine 5 und 6):
+
+| Schritt | Warum menschlich |
+|---|---|
+| **Sprecherstimme** | Kein TTS. Eine echte Stimme statt einer anonymen KI-Erzählstimme entfernt das größte Policy-Risiko strukturell. |
+| **Schnitt** | Rhythmus und Retention entstehen im Schnitt – hier sitzt handwerkliche Kompetenz des Projektinhabers. |
+| **Visuelle Rekonstruktion** | Selbst gestaltete Diagramme und Animationen: rechtlich nötig (§ 72 UrhG) und stärkster Wiedererkennungswert. Keine Bildgeneratoren für Rekonstruktionsgrafiken. |
+
+Damit ist auch klar, **was Automatisierung in diesem Projekt überhaupt
+bedeutet:** Sie befreit Zeit für diese drei Schritte, indem sie Research,
+Skript-Rohbau, Prüfung und Verwaltung übernimmt. Sie ersetzt sie nicht.
 
 ## Stufe 2: Automatisierung (M3)
 
 Nach Video 5 wird priorisiert: Welche dokumentierten Schritte kosten am
 meisten Zeit und sind am klarsten regelbasiert? Diese werden zuerst
-automatisiert – typischerweise in dieser Reihenfolge:
+automatisiert – in dieser Reihenfolge:
 
-1. Research- und Skript-Rolle als Agenten (klare Ein-/Ausgabeformate existieren bereits)
-2. Qualitäts-Rolle als Agent (mit menschlicher Stichprobe als Backstop)
-3. SEO-Paket (Titel, Beschreibung, Kapitel, Tags) als Routineaufgabe
-4. Statistik-Auswertung als wiederkehrender Report
+1. Research-Rolle als Agent (Berichts-Auswertung: Zeitleiste, Kernaussagen mit
+   Seitenzahl, Grenzen der Untersuchung – der zeitaufwendigste Schritt bei
+   60–200-seitigen Fachberichten)
+2. Skript-Rolle als Agent (klare Ein-/Ausgabeformate existieren bereits)
+3. Qualitäts-Rolle als Agent (mit menschlicher Stichprobe als Backstop)
+4. SEO-Paket (Titel, Beschreibung, Kapitel, Tags) als Routineaufgabe
+5. Statistik-Auswertung als wiederkehrender Report
+
+**Entfällt gegenüber dem Ursprungskonzept:** der Sprecher-Agent als
+TTS-Aufbereiter. Er wird zu einer schlankeren Rolle – Sprechfassung
+aufbereiten (Betonungshinweise, Pausen, Aussprache von Fachbegriffen und
+Ortsnamen) **für einen menschlichen Sprecher**.
 
 ## Stufe 3: Zielarchitektur (erst bei bewiesener Blaupause)
 

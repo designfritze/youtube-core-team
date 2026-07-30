@@ -6,6 +6,57 @@ Format angelehnt an Architecture Decision Records (ADR).
 
 ---
 
+## 2026-07-30 – Nische und Winkel beschlossen: K3 „Rekonstruktion"
+
+**Entscheidung:** Phase 1 wird mit der Nische **K3 „Rekonstruktion"** gebaut –
+ein reales technisches Versagen pro Video, rekonstruiert ausschließlich aus
+dem veröffentlichten amtlichen Abschlussbericht. Der ausformulierte Winkel und
+die Stil-Referenz stehen in [WINKEL.md](WINKEL.md).
+
+**Begründung:** Empfehlung der Bewertungsmatrix
+([NISCHEN-BEWERTUNG.md](NISCHEN-BEWERTUNG.md), Summe 20 von 25, höchster Wert
+der fünf Kandidaten). Ausschlaggebend: Winkel und Policy-Versicherung sind
+derselbe Mechanismus, bester Evergreen-Wert, schwächste Konkurrenz bei
+gesichertem Themennachschub, und das Risiko liegt beim Format statt bei der
+Person des Projektinhabers.
+
+**Verworfen:** K1 (K.-o. wegen Winkel 1), K4 „Aktenlage" (bester RPM, aber
+presserechtliches Risiko pro Video), K2 „Amtsdeutsch" (Rückfallkandidat),
+K5 „Daten" (stärkster Kopierschutz, aber kein Zuschauertreiber und stärkste
+Konkurrenz).
+
+**Erledigt damit:** Issues #1 und #3.
+
+---
+
+## 2026-07-30 – Profil des Projektinhabers: eigene Stimme, eigener Schnitt, eigene Grafik
+
+**Sachverhalt:** Der Projektinhaber ist Künstler und Designer, Cutter und
+Sprecher. Das war bei der Bewertung nicht bekannt und verändert sie
+substanziell (Nachtrag in [NISCHEN-BEWERTUNG.md](NISCHEN-BEWERTUNG.md),
+Abschnitt 8).
+
+**Entscheidung:** Sprecherstimme, Schnitt und die gesamte visuelle Sprache
+werden **vom Projektinhaber selbst** verantwortet – kein TTS, keine
+Bildgeneratoren für die Rekonstruktionsgrafiken. Das sind die
+personengebundenen Winkel-Bausteine 5 und 6 in [WINKEL.md](WINKEL.md).
+
+**Begründung:** Damit entfällt das größte Policy-Risiko des Ursprungskonzepts
+strukturell statt durch Sorgfalt: Es gibt keine anonyme KI-Erzählstimme, die
+Expertenautorität simuliert (die im Juli 2026 benannte Kategorie 3), und keine
+generierten Bilder, die unter die KI-Offenlegungspflicht fallen könnten.
+Gleichzeitig entsteht der Wiedererkennungswert, den eine generische Pipeline
+nicht erreicht – gestaltete Erklärgrafik statt Stockbild mit Zoomeffekt.
+
+**Bewusst akzeptierte Folge:** Der Automatisierungsgrad in Phase 1 sinkt.
+Stimme und Schnitt bleiben menschlich; automatisiert werden Research,
+Skript-Rohbau, Qualitätsprüfung, SEO und Statistik. Die Blaupause hängt damit
+in Phase 1 an einer Person – ein Phase-3-Problem, das in
+[WINKEL.md](WINKEL.md) („Bekannter Vorbehalt: Skalierung") festgehalten ist
+und nicht jetzt gelöst wird.
+
+---
+
 ## 2026-07-30 – KI-Projektleitung durch Opus 5 mit Modell-Delegationsrecht
 
 **Entscheidung:** Die operative Projektleitung übernimmt eine Claude-Session
@@ -84,14 +135,13 @@ fehlinterpretiert.
 
 ## Offene Grundsatzentscheidungen (fällig in M1)
 
-- **Nische** (mit Bewertungsmatrix aus [STRATEGIE.md](STRATEGIE.md)) –
-  Entscheidungsvorlage liegt vor: [NISCHEN-BEWERTUNG.md](NISCHEN-BEWERTUNG.md),
-  Empfehlung K3 „Rekonstruktion". **Wartet auf Entscheidung des Projektinhabers.**
-- **Unkopierbarer Winkel** – vier Winkel-Ideen zu K3 samt Gegentest in derselben
-  Vorlage; die Ausformulierung als Stil-Referenz erfolgt nach der Nischenentscheidung.
-- Sprache: Deutsch oder Englisch (Vorlage folgt; K3 hätte seinen
-  Wettbewerbsvorteil nur im deutschsprachigen Markt)
-- Finale Werte der Phase-1-Kriterien inkl. Budget-Deckel
+- ~~Nische~~ → beschlossen: K3 „Rekonstruktion" (2026-07-30)
+- ~~Unkopierbarer Winkel~~ → beschlossen und ausformuliert: [WINKEL.md](WINKEL.md) (2026-07-30)
+- **Sprache: Deutsch oder Englisch** – Entscheidungsvorlage in Issue #2.
+  Kurzfassung: K3 hat seinen Wettbewerbsvorteil nur im deutschsprachigen Markt,
+  und der Projektinhaber spricht selbst. **Wartet auf Entscheidung.**
+- **Finale Werte der Phase-1-Kriterien inkl. Budget-Deckel** (Issue #4) –
+  der Budget-Deckel ist die einzige Zahl, die nur der Projektinhaber kennt.
 
 ## Verschoben / für später notiert
 

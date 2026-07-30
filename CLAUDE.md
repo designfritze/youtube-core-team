@@ -68,28 +68,43 @@ Projektwissen liegt ausschließlich in diesem Repository.
 
 ## Aktueller Stand (zuletzt aktualisiert: 2026-07-30)
 
-- Repo-Fundament, Projektplan, Welle-1-Agenten (Research, Skript, Qualität)
-  und Issues #1–#13 sind angelegt.
-- **Issue #1 + #3: Entscheidungsvorlage fertig und in Issue #1 kommentiert.**
-  Fünf Kandidaten bewertet in [docs/NISCHEN-BEWERTUNG.md](docs/NISCHEN-BEWERTUNG.md),
-  K1 per K.-o.-Regel ausgeschieden, **Empfehlung: K3 „Rekonstruktion"**
-  (Störfälle aus amtlichen Untersuchungsberichten).
-- **Der Engpass ist jetzt die Entscheidung, nicht die Vorarbeit.** Es warten
-  zwei Antworten des Projektinhabers: (1) Nische K3/K2/neue Runde,
-  (2) fachlicher Hintergrund/Zugänge – Letzteres kann die Matrix verschieben
-  (Jurist → K2 vor K3; Technik → K3 stärker; Daten → K5 tragfähig).
-- Sobald die Nische beschlossen ist, ohne Rückfrage ausführbar: Winkel-
-  Ausformulierung als Stil-Referenz (#3), Decision-Log-Eintrag, Datenlage
-  für die Sprachentscheidung (#2).
-- **Offene Pflicht-Nacharbeit:** Die Policy-Recherche konnte nicht am
-  Originaltext gegengelesen werden (die Umgebung blockierte direkte
-  Seitenaufrufe, 403 auf CONNECT). Vor Produktionsbeginn sind die
-  Google-Hilfeseiten 1311392, 14328491 und 2802008 manuell zu prüfen.
-- Noch keine Entscheidung zu Nische, Sprache, Winkel, Kriterienwerten
-  (siehe „Offene Grundsatzentscheidungen" im Decision Log).
-- Bestätigt durch den Projektinhaber (2026-07-30): Produktion bleibt
-  kuratiert, kein vollautomatischer Upload. Wirkung auf die Policy-Lage in
-  [docs/NISCHEN-BEWERTUNG.md](docs/NISCHEN-BEWERTUNG.md), Abschnitt 2.
+**M1 ist zu zwei Dritteln erledigt. Nische und Winkel stehen.**
+
+- Repo-Fundament, Projektplan, Welle-1-Agenten und Issues #1–#13 angelegt.
+- **Beschlossen (#1, #3 geschlossen):** Nische **K3 „Rekonstruktion"** – ein
+  reales technisches Versagen pro Video, ausschließlich aus dem
+  veröffentlichten amtlichen Abschlussbericht. Verbindliche Stil-Referenz:
+  [docs/WINKEL.md](docs/WINKEL.md). Begründung und Risiken:
+  [docs/NISCHEN-BEWERTUNG.md](docs/NISCHEN-BEWERTUNG.md).
+- **Profil des Projektinhabers:** Künstler/Designer, Cutter, Sprecher. Daraus
+  folgt beschlossen: **kein TTS, keine generierten Rekonstruktionsgrafiken** –
+  Stimme, Schnitt und visuelle Sprache bleiben menschlich (Winkel-Bausteine 5
+  und 6). Das hebt Winkel- und Policy-Note je auf 5 (Nachtrag, Abschnitt 8)
+  und senkt bewusst den Automatisierungsgrad in Phase 1.
+- Die Welle-1-Agenten sind auf die Nische umgestellt (Berichts-Auswertung mit
+  Seitenzahlpflicht, Pflichtsegment „was im Bericht nicht steht",
+  Winkeltreue-Prüfpunkt mit Veto).
+
+**Was jetzt beim Projektinhaber liegt (zwei Entscheidungen, dann ist M1 fertig):**
+1. **Sprache (#2)** – Entscheidungsvorlage liegt im Issue. Kurz: alles spricht
+   für Deutsch (K3-Wettbewerbsvorteil existiert nur dort, und der Sprecher
+   ist der Projektinhaber selbst).
+2. **Phase-1-Kriterien + Budget-Deckel (#4)** – die Werte sind vorgeschlagen,
+   nur der Budget-Deckel kann niemand außer ihm setzen.
+
+**Ohne Rückfrage ausführbar, sobald die Sprache steht:** `[SPRACHE]`-Platzhalter
+in [agents/](agents/README.md) füllen, dann M2 beginnen – Skript-Template und
+Hook-Formate (#6), Thumbnail-Prozess (#8).
+
+**Offene Pflicht-Nacharbeit vor Produktionsbeginn:** Die Policy-Recherche
+konnte nicht am Originaltext gegengelesen werden (die Umgebung blockierte
+direkte Seitenaufrufe, 403 auf CONNECT). Die Google-Hilfeseiten 1311392,
+14328491 und 2802008 sind manuell zu prüfen, ebenso die genannten
+Konkurrenzkanäle direkt auf YouTube.
+
+**Hinweis zu #7 (TTS-Auswahl):** Die Prämisse dieses Issues ist durch den
+Beschluss „eigene Stimme" entfallen. Das Issue wurde umgewidmet zu
+Aufnahme-Setup und Sprechfassung – siehe Kommentar dort.
 
 > Halte diesen Abschnitt aktuell: Wenn sich der Projektstand wesentlich
 > ändert, aktualisiere ihn im selben Commit wie die inhaltliche Änderung.

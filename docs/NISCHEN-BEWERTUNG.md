@@ -1,9 +1,11 @@
 # Nischen-Bewertung und Winkel-Gegentest (Issues #1 + #3)
 
-> **Status: ENTSCHEIDUNGSVORLAGE.** Dieses Dokument bewertet, es entscheidet
-> nicht. Die Nischen- und Winkelwahl liegt laut [CLAUDE.md](../CLAUDE.md)
-> ausschließlich beim Projektinhaber. Nach der Entscheidung wandert das
-> Ergebnis ins [Decision Log](ENTSCHEIDUNGEN.md).
+> **Status: ERLEDIGT – Entscheidung gefallen (2026-07-30).** Der Projektinhaber
+> hat **K3 „Rekonstruktion"** festgelegt. Verbindlich ist ab jetzt
+> [WINKEL.md](WINKEL.md); dieses Dokument bleibt als Begründungsgrundlage und
+> Risikoübersicht erhalten. **Abschnitt 8 ist ein Nachtrag, der die Bewertung
+> nach oben korrigiert** – er verändert zwei Noten und die Policy-Lage.
+> Entscheidung im [Decision Log](ENTSCHEIDUNGEN.md).
 
 Bearbeitet: 2026-07-30 · Zuständig: KI-Projektleitung · Issues [#1](../../issues/1), [#3](../../issues/3)
 
@@ -496,3 +498,53 @@ nötig wäre, der hier nicht vorliegt. Statt einer geschätzten Zahl steht oben
 der tatsächliche Tokenverbrauch. Sobald der Budget-Deckel in Issue #4
 beschlossen ist, wird die Umrechnung im Produktionsprotokoll verbindlich
 mitgeführt.
+
+---
+
+## 8. Nachtrag nach der Entscheidung: das Profil des Projektinhabers
+
+Die Bewertung oben entstand **ohne Kenntnis** des fachlichen Hintergrunds –
+Frage 2 in Abschnitt 6 war genau deshalb gestellt. Die Antwort lautet:
+**Künstler und Designer, Cutter, Sprecher.** Das ist keine Randnotiz, sondern
+korrigiert die Bewertung von K3 an zwei Stellen nach oben. Der Nachtrag steht
+hier statt in der Matrix, damit nachvollziehbar bleibt, was vor und was nach
+der Entscheidung bekannt war.
+
+### Was sich ändert
+
+| Kriterium | vorher | jetzt | Grund |
+|---|---|---|---|
+| Unkopierbarer Winkel | 4 | **5** | Aus dem Winkel wird ein zweiter, **personengebundener** Mechanismus: eine selbst gestaltete Rekonstruktionssprache von einem Designer ist nicht mit Aufwand aufzuholen, sondern gar nicht – Gestaltungsqualität ist keine Fleißaufgabe. Der Gegentest („nächste Woche kopierbar?") fällt damit klar negativ aus. |
+| Policy-Risiko | 4 | **5** | Kein TTS und keine generierten Bilder heißt: keine anonyme KI-Erzählstimme, die Autorität simuliert (Kategorie 3 entfällt vollständig), und kein Auslöser der KI-Offenlegungspflicht. Der Kanal ist nicht „KI-Produktion mit Sorgfalt", sondern handwerkliche Produktion mit KI-Zuarbeit. Das ist der Unterschied, den YouTubes Formulierung „original, authentic insights or perspective" beschreibt. |
+
+**Neue Summe für K3: 22 von 25.** Die drei Kandidatenlücken bleiben, wo sie
+waren – nur K3 profitiert von diesem Profil, weil K2/K4 ihre Schwäche im
+Rechtsbereich haben und K5 Datenkompetenz verlangt.
+
+### Was sich nicht ändert
+
+- **Die RPM-Unsicherheit bleibt die größte offene Flanke.** Für dieses Feld
+  wurden weiterhin keine belastbaren Zahlen gefunden; Unfallthemen können
+  werbeseitig gedeckelt sein. Das Profil verbessert die Qualität, nicht die
+  Werbenachfrage.
+- **Die Pflicht-Nacharbeit aus Abschnitt 2 bleibt vollständig bestehen**
+  (drei Google-Hilfeseiten am Originaltext gegenlesen, genannte Kanäle direkt
+  prüfen). Ein gutes Profil ersetzt keine Quellenprüfung.
+- **Der Negativbefund bleibt ein Negativbefund:** „kein deutschsprachiger
+  Kanal gefunden" ist weiterhin kein Beweis für eine Marktlücke.
+- **Bildrechte bleiben relevant** – eigene Grafiken sind jetzt Stärke *und*
+  weiterhin rechtliche Voraussetzung (§ 72 UrhG).
+
+### Die unangenehme Kehrseite, damit sie nicht untergeht
+
+Eigene Stimme, eigener Schnitt und eigene Grafik sind der Grund für die
+verbesserten Noten – und gleichzeitig **drei personengebundene Engpässe**. Der
+Automatisierungsgrad in Phase 1 sinkt damit deutlich unter das, was das
+Ursprungskonzept anvisierte: Automatisierbar bleiben Research, Skript-Rohbau,
+Qualitätsprüfung, SEO und Statistik; Sprechen, Schneiden und Gestalten nicht.
+
+Das ist die richtige Reihenfolge – erst Qualität beweisen, dann skalieren –
+aber es heißt: **Die Blaupause hängt in Phase 1 an einer Person.** Wer daraus
+in Phase 3 mehrere Kanäle ableiten will, muss diesen Engpass dann bewusst
+lösen (siehe [WINKEL.md](WINKEL.md), „Bekannter Vorbehalt: Skalierung"). Nicht
+jetzt, aber auch nicht vergessen.

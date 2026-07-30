@@ -31,7 +31,9 @@ später beliebig kopiert werden kann.
 | [PROJEKTPLAN.md](PROJEKTPLAN.md) | Der vollständige Arbeitsplan: Arbeitspakete, Abhängigkeiten, Zeitplan, Risiken, Governance |
 | [CLAUDE.md](CLAUDE.md) | Betriebsanleitung der KI-Projektleitung (wird von Claude-Sessions automatisch geladen) |
 | [ROADMAP.md](ROADMAP.md) | Meilensteine M1–M4 mit Verweis auf die GitHub Issues |
+| [docs/WINKEL.md](docs/WINKEL.md) | **Das Kanalprofil:** Nische, Winkel, Formatregeln, Ton – verbindliche Stil-Referenz |
 | [docs/STRATEGIE.md](docs/STRATEGIE.md) | Phasenmodell, Nischen-Entscheidungsframework, Plattformrisiken |
+| [docs/NISCHEN-BEWERTUNG.md](docs/NISCHEN-BEWERTUNG.md) | Wie die Nische gewählt wurde: fünf Kandidaten, Matrix, Risiken |
 | [docs/PIPELINE.md](docs/PIPELINE.md) | Die schlanke Start-Pipeline (3 Rollen) und ihre Ausbaustufen |
 | [docs/PHASE-1-KRITERIEN.md](docs/PHASE-1-KRITERIEN.md) | Messbare Erfolgs- und Abbruchkriterien für Phase 1 |
 | [docs/MANIFEST.md](docs/MANIFEST.md) | Das gemeinsame Manifest – die Verfassung aller Beteiligten und Agenten |
