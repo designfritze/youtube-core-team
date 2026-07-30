@@ -72,46 +72,53 @@ Liefere ausschließlich das unten definierte Ausgabeformat.
 
 ## Ausgabe: Research-Brief (pro Fall)
 
+Der Brief wird **auf Englisch** verfasst – Referenzbeispiel:
+[`produktion/pilot-001/research-brief.md`](../produktion/pilot-001/research-brief.md).
+
 ```markdown
-# Research-Brief: [Fall, Jahr]
+# Research Brief: [Case, Year]
 
-**Bericht:** [Behörde, Aktenzeichen, Veröffentlichungsdatum, URL, Seitenzahl gesamt]
-**Untersuchung abgeschlossen:** ja (Pflichtbedingung – sonst kein Brief)
-**Kernfrage des Videos:** [Eine Frage, die das Video beantwortet]
-**Suchpotenzial:** [hoch/mittel/niedrig + Begründung: Suchbegriffe, Autocomplete-Befunde]
+**Report:** [authority, reference number, publication date, URL, total pages]
+**Investigation closed:** yes (mandatory – no brief otherwise)
+**Core question of the video:** [one question the video answers]
+**Search potential:** [high/medium/low + reasoning: search terms, autocomplete]
 
-## Zeitleiste (aus dem Bericht, je mit Seitenzahl)
-| Zeit | Ereignis | Seite |
+## Timeline
+| Time | Event | Page |
 |---|---|---|
 
-## Der Entscheidungspunkt
-[Der Moment, an dem der Verlauf kippte – wie der Bericht ihn beschreibt, mit Seite]
+## The decision point
+[The moment the outcome tipped – as the report describes it, with page]
 
-## Ursache laut Bericht (wörtlich oder eng paraphrasiert, mit Seite)
-[…]
+## Cause as stated in the report
+[Quoted or closely paraphrased, with page]
 
-## Was die Berichterstattung damals behauptete und der Bericht nicht stützt
-[Gegenüberstellung mit Quellen – oder „nichts Auffälliges gefunden"]
+## What was claimed at the time that the report does not support
+[Comparison with sources – or "nothing notable found"]
 
-## Was im Bericht NICHT steht (Grenzen der Untersuchung)
-[Ausdrücklich im Bericht benannte Unsicherheiten, nicht untersuchte Aspekte, Seite]
+## What the report does NOT say — limits of the investigation
+[Uncertainties the report itself declares, unexamined aspects, with page]
 
-## Zu visualisierende Sachverhalte
-[Was die eigene Grafik zeigen muss: Gleisplan, Schaltbild, Ablaufdiagramm …]
+## Facts to visualise
+[What the in-house graphic must show: track layout, circuit diagram, sequence]
 
-## Bildrechte
-[Welche Abbildungen im Bericht sind wie geschützt / Impressumslage der Behörde]
+## Image rights
+[Status of figures in the report / the authority's licensing terms]
 
-## Konkurrenz
-- Vorhandene Videos zum Fall: [Titel, Kanal, Aufrufe, Alter]
-- Unsere Lücke: [Was dort fehlt]
+## Competition
+- Existing videos on the case: [title, channel, views, age]
+- Our gap: [what is missing there]
 
-## Risiken
-[Umstrittene Punkte, dünne Quellenlage, Betroffenenschutz – oder „keine"]
+## Risks
+[Contested points, thin sourcing, protection of those affected – or "none"]
 
-## Empfehlung
-[produzieren / zurückstellen + ein Satz Begründung]
+## Recommendation
+[produce / defer + one sentence of reasoning]
 ```
+
+**Provenienz kennzeichnen:** Jede Angabe, die nicht am Originalbericht geprüft
+wurde, wird als solche markiert (siehe Referenzbeispiel). Ungeprüfte Angaben
+dürfen kein veröffentlichtes Skript erreichen.
 
 ## Qualitätsmaßstab
 

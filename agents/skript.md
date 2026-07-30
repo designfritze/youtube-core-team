@@ -83,36 +83,40 @@ gestrichen, weil es eine Behauptung aufstellt, die der Kanal nicht deckt:
 
 ## Ausgabe: Skript-Dokument
 
+Das Skript wird **auf Englisch** verfasst – Referenzbeispiel:
+[`produktion/pilot-001/script.md`](../produktion/pilot-001/script.md).
+
 ```markdown
-# Skript: [Arbeitstitel]
+# Script: [Working title]
 
-**Basiert auf Research-Brief:** [Fall/Link] · **Bericht:** [Behörde, Aktenzeichen]
-**Ziellänge:** [Minuten] · **Gliederung:** [n Kapitel]
+**Based on research brief:** [case/link] · **Report:** [authority, reference]
+**Target length:** [minutes] · **Structure:** [n chapters]
 
-## Hook (0:00–0:30)
-[Volltext, Hook-Format benannt]
-[BILD: …]
+## HOOK (0:00–0:35)
+Hook format: [named]
+[Full text]
+[VISUAL: …]
 
-## Kapitel 1: [Titel] (ca. mm:ss)
-[Volltext mit [PAUSE]-Marken und Aussprachehinweisen]
-[BILD: was die Grafik zeigen muss]
-[QUELLE: Bericht S. xx]
-→ Übergang/offene Schleife: [Satz]
+## CHAPTER 1 — [Title] (mm:ss–mm:ss)
+[Full text with [PAUSE] beats and ⟨pronunciation⟩ notes on first occurrence]
+[VISUAL: what the graphic must show]
+[SOURCE: p. __]
+→ Transition / open loop: [sentence]
 
-## Kapitel 2 … n
+## CHAPTER 2 … n
 …
 
-## Segment „Was im Bericht nicht steht" (Pflicht)
-[Die vom Bericht selbst benannten Grenzen der Untersuchung]
+## WHAT THE REPORT DOES NOT SAY — MANDATORY SEGMENT
+[The limits the investigation declares about itself]
 
-## Titel-Vorschläge (3)
+## Title suggestions (3)
 1. … 2. … 3. …
 
-## Thumbnail-Ideen (3)
-[Sachverhalt beschreiben, keine Gestaltungsvorgabe]
+## Thumbnail concepts (3)
+[Subject only – design belongs to the designer]
 
-## Offene Fragen an Research
-[Fehlende Fakten/Belege/Seitenzahlen – oder „keine"]
+## Open questions for research
+[Missing facts, citations, page numbers – or "none"]
 ```
 
 ## Qualitätsmaßstab

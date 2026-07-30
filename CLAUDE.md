@@ -98,10 +98,25 @@ Projektwissen liegt ausschließlich in diesem Repository.
 
 **M1 ist damit inhaltlich abgeschlossen. Offen ist nur noch #5 (Kanal-Setup).**
 
+**Pilotdurchlauf liegt vor (2026-07-30):**
+[`produktion/pilot-001/`](produktion/pilot-001/README.md) – die komplette
+Welle-1-Pipeline an einem echten Fall (Northeast Blackout 2003, Stromnetz):
+Research-Brief → Skript → QS-Protokoll, plus der 60-Sekunden-Text für die
+Probeaufnahme. **Die QS hat zurückgegeben** – kein Beleg konnte am
+Originalbericht geprüft werden, weil die Umgebung Dokumentenaufrufe blockiert
+(403 auf CONNECT). Das ist der beabsichtigte Fehlermodus: kein Video ohne
+Seitenzahlen. Als Format- und Prozesstest ist der Pilot vollständig.
+
 **Nächste Schritte, ohne Rückfrage ausführbar:**
-1. **M2 starten:** Skript-Template und Hook-Formate (#6), Thumbnail-Prozess (#8)
-2. **Vor Video 1 zwingend:** englische Probeaufnahme bewerten (#7) und die
-   Pflicht-Nacharbeit an den Policy-Originalquellen erledigen (siehe unten)
+1. **Wartet auf den Menschen:** Probeaufnahme aus
+   [`produktion/pilot-001/narration-test.md`](produktion/pilot-001/narration-test.md)
+   und Rückmeldung zum Piloten (Bildregie umsetzbar? QS-Strenge richtig
+   kalibriert?)
+2. **M2 fortsetzen:** Skript-Template und Hook-Formate aus dem Piloten
+   ableiten (#6), Thumbnail-Prozess (#8)
+3. **Vor Video 1 zwingend:** Pflicht-Nacharbeit an den Policy-Originalquellen
+   (siehe unten) und Belege für den Piloten nachziehen, falls er produziert
+   werden soll
 
 **Offene Empfehlung, bewusst nicht entschieden:** Teilgebiets-Schärfung
 innerhalb von K3 auf Stromnetz, IT-/Infrastrukturausfälle und Bahn statt

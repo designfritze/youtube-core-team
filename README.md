@@ -39,6 +39,7 @@ später beliebig kopiert werden kann.
 | [docs/MANIFEST.md](docs/MANIFEST.md) | Das gemeinsame Manifest – die Verfassung aller Beteiligten und Agenten |
 | [docs/ENTSCHEIDUNGEN.md](docs/ENTSCHEIDUNGEN.md) | Decision Log: jede Grundsatzentscheidung mit Begründung |
 | [agents/](agents/README.md) | Die Agenten-Definitionen – Welle 1 (Research, Skript, Qualität) einsatzbereit |
+| [produktion/pilot-001/](produktion/pilot-001/README.md) | **Erste Version zum Testen:** kompletter Pipelinedurchlauf an einem echten Fall |
 
 ## Arbeitsweise in diesem Repo
 
