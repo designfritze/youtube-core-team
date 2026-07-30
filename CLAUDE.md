@@ -70,11 +70,26 @@ Projektwissen liegt ausschließlich in diesem Repository.
 
 - Repo-Fundament, Projektplan, Welle-1-Agenten (Research, Skript, Qualität)
   und Issues #1–#13 sind angelegt.
-- **Nächster Schritt: Issue #1 + #3 gemeinsam** – Nischen-Kandidaten mit
-  Winkel-Ideen erarbeiten und die Bewertungsmatrix füllen. Das ist der
-  Engpass; alles andere hängt daran.
+- **Issue #1 + #3: Entscheidungsvorlage fertig und in Issue #1 kommentiert.**
+  Fünf Kandidaten bewertet in [docs/NISCHEN-BEWERTUNG.md](docs/NISCHEN-BEWERTUNG.md),
+  K1 per K.-o.-Regel ausgeschieden, **Empfehlung: K3 „Rekonstruktion"**
+  (Störfälle aus amtlichen Untersuchungsberichten).
+- **Der Engpass ist jetzt die Entscheidung, nicht die Vorarbeit.** Es warten
+  zwei Antworten des Projektinhabers: (1) Nische K3/K2/neue Runde,
+  (2) fachlicher Hintergrund/Zugänge – Letzteres kann die Matrix verschieben
+  (Jurist → K2 vor K3; Technik → K3 stärker; Daten → K5 tragfähig).
+- Sobald die Nische beschlossen ist, ohne Rückfrage ausführbar: Winkel-
+  Ausformulierung als Stil-Referenz (#3), Decision-Log-Eintrag, Datenlage
+  für die Sprachentscheidung (#2).
+- **Offene Pflicht-Nacharbeit:** Die Policy-Recherche konnte nicht am
+  Originaltext gegengelesen werden (die Umgebung blockierte direkte
+  Seitenaufrufe, 403 auf CONNECT). Vor Produktionsbeginn sind die
+  Google-Hilfeseiten 1311392, 14328491 und 2802008 manuell zu prüfen.
 - Noch keine Entscheidung zu Nische, Sprache, Winkel, Kriterienwerten
   (siehe „Offene Grundsatzentscheidungen" im Decision Log).
+- Bestätigt durch den Projektinhaber (2026-07-30): Produktion bleibt
+  kuratiert, kein vollautomatischer Upload. Wirkung auf die Policy-Lage in
+  [docs/NISCHEN-BEWERTUNG.md](docs/NISCHEN-BEWERTUNG.md), Abschnitt 2.
 
 > Halte diesen Abschnitt aktuell: Wenn sich der Projektstand wesentlich
 > ändert, aktualisiere ihn im selben Commit wie die inhaltliche Änderung.

@@ -84,7 +84,17 @@ fehlinterpretiert.
 
 ## Offene Grundsatzentscheidungen (fällig in M1)
 
-- Nische (mit Bewertungsmatrix aus [STRATEGIE.md](STRATEGIE.md))
-- Sprache: Deutsch oder Englisch
-- Unkopierbarer Winkel
+- **Nische** (mit Bewertungsmatrix aus [STRATEGIE.md](STRATEGIE.md)) –
+  Entscheidungsvorlage liegt vor: [NISCHEN-BEWERTUNG.md](NISCHEN-BEWERTUNG.md),
+  Empfehlung K3 „Rekonstruktion". **Wartet auf Entscheidung des Projektinhabers.**
+- **Unkopierbarer Winkel** – vier Winkel-Ideen zu K3 samt Gegentest in derselben
+  Vorlage; die Ausformulierung als Stil-Referenz erfolgt nach der Nischenentscheidung.
+- Sprache: Deutsch oder Englisch (Vorlage folgt; K3 hätte seinen
+  Wettbewerbsvorteil nur im deutschsprachigen Markt)
 - Finale Werte der Phase-1-Kriterien inkl. Budget-Deckel
+
+## Verschoben / für später notiert
+
+- **Euro-Umrechnung der Modellkosten:** Solange der Abrechnungssatz nicht
+  vorliegt, werden Delegationen in Token dokumentiert. Verbindliche
+  €-Erfassung ab Beschluss des Budget-Deckels (Issue #4).
