@@ -10,10 +10,26 @@
 **„Rekonstruktion" – ein reales technisches Versagen pro Video, rekonstruiert
 ausschließlich aus dem veröffentlichten amtlichen Abschlussbericht.**
 
+**Sprache: Englisch** (beschlossen 2026-07-30). Research-Briefs, Skripte,
+Titel und Beschreibungen werden auf Englisch erstellt – keine
+Übersetzungsschicht zwischen Recherche und Skript.
+
 Themenfelder: Bahnunfälle, Stromnetz-Störungen, Brücken- und Bauwerksschäden,
-Industriestörfälle, IT-Großausfälle, Flugunfälle. Quellen sind ausschließlich
-veröffentlichte Untersuchungsberichte amtlicher Stellen (BFU, Bundesstelle für
-Eisenbahnunfalluntersuchung, BSI, Aufsichts- und Untersuchungsbehörden).
+Industriestörfälle, IT-Großausfälle, Flugunfälle.
+
+**Primärquellen (englischsprachig):** NTSB (US, Verkehr), CSB (US,
+Chemie/Industrie), RAIB (UK, Bahn), AAIB (UK, Luftfahrt), MAIB (UK, See),
+dazu Berichte von Netzbetreibern und Aufsichtsbehörden. Deutsche Quellen (BFU,
+Eisenbahnunfalluntersuchung, BSI) bleiben nutzbar, erzeugen aber eine
+Übersetzungsstufe und damit Fehlerrisiko genau dort, wo Präzision der Winkel
+ist – deshalb nachrangig und nur bei besonders starken Fällen.
+
+**Rechtslage der Quellen (Vorteil der englischen Ausrichtung):** NTSB- und
+CSB-Berichte sind Werke der US-Bundesregierung und in den USA gemeinfrei;
+RAIB, AAIB und MAIB stehen unter der Open Government Licence (nutzbar mit
+Quellenangabe). Das deutsche Problem – § 5 UrhG befreit den Text, aber nicht
+zwingend die Fotos (§ 72 UrhG) – entfällt damit weitgehend.
+*(Laien-Recherche, keine Rechtsberatung – vor Produktionsbeginn prüfen.)*
 
 ## Der Winkel (Stil-Referenz – dieser Absatz ist die Kurzfassung für Agenten)
 
@@ -60,6 +76,41 @@ Künstler/Designer, Cutter, Sprecher):
    Autorität simuliert – das größte Policy-Risiko des ursprünglichen
    Konzepts entfällt strukturell, nicht durch Sorgfalt, sondern durch die
    Bauform.
+
+## Die Wettbewerbslage im Englischen – und was daraus folgt
+
+Die Sprachentscheidung fiel auf Englisch. Damit steht der Kanal **nicht** in
+einer Lücke, sondern neben etablierten Formaten: Plainly Difficult, Brick
+Immortar (~393 Tsd. Abonnenten), Fascinating Horror, Scary Interesting,
+Military Expert (arbeitet ausdrücklich mit NTSB-, AAIB- und BEA-Berichten) –
+dazu der offizielle CSB-Kanal (~417 Tsd. Abonnenten), der eigene
+Unfallanimationen veröffentlicht.
+
+**Der Winkel muss deshalb gegen sichtbare Konkurrenz differenzieren, nicht
+gegen eine Leerstelle.** Drei der sechs Bausteine leisten das nachweislich:
+
+- **Baustein 3 („was im Bericht nicht steht")** ist der stärkste Unterschied.
+  Die etablierten Kanäle erzählen eine geschlossene Geschichte; ein Segment
+  über die *Grenzen* der Untersuchung ist in diesem Feld selten.
+- **Baustein 1 (Seitenzahl im Bild)** macht die Behauptung überprüfbar statt
+  nur belegt. Ebenfalls unüblich.
+- **Baustein 5 (gestaltete Rekonstruktion)** ist der sichtbarste Unterschied:
+  Die Konkurrenz arbeitet überwiegend mit Archivfotos, Karten und einfachen
+  Grafiken. Hier zählt Gestaltungskompetenz unmittelbar.
+
+**Empfehlung zur Teilgebiets-Schärfung (offen, nicht entschieden):** Luftfahrt
+und Seefahrt sind im Englischen dicht besetzt (Mentour Pilot, Brick Immortar
+u. a.). Dünner besetzt und näher an der eigenen Stärke sind **Stromnetz- und
+Infrastrukturausfälle, IT-/Rechenzentrumsausfälle und Bahn**. Die Entscheidung
+sollte nach den ersten Research-Briefs fallen, nicht vorab am Reißbrett –
+festgehalten im Decision Log unter „Verschoben".
+
+**Neues Risiko aus der Sprachwahl:** Die Konkurrenz sind Muttersprachler mit
+wiedererkennbaren Stimmen. Ein hörbarer Akzent untergräbt ein Format, dessen
+Kern Präzision ist. **Vor Video 1 zu testen** (Issue #7): eine Probeaufnahme
+von 60 Sekunden Skripttext, ehrlich bewertet. Fällt der Test negativ aus, ist
+das kein Projektende, sondern eine Entscheidung zwischen englischem Sprecher,
+Untertitel-lastigem Format oder Rückkehr zu Deutsch.
 
 ## Was dieser Kanal ausdrücklich NICHT ist
 

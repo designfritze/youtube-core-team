@@ -548,3 +548,62 @@ aber es heißt: **Die Blaupause hängt in Phase 1 an einer Person.** Wer daraus
 in Phase 3 mehrere Kanäle ableiten will, muss diesen Engpass dann bewusst
 lösen (siehe [WINKEL.md](WINKEL.md), „Bekannter Vorbehalt: Skalierung"). Nicht
 jetzt, aber auch nicht vergessen.
+
+---
+
+## 9. Nachtrag: Auswirkung der Sprachentscheidung (Englisch)
+
+Der Projektinhaber hat am 2026-07-30 **Englisch** beschlossen – gegen die
+Empfehlung dieser Vorlage, die Deutsch vorschlug, weil der Wettbewerbsvorteil
+von K3 auf einem *deutschsprachigen* Negativbefund beruhte. Die Entscheidung
+steht; hier die ehrliche Neubewertung.
+
+### Was sich verschlechtert
+
+| Kriterium | vorher | jetzt | Grund |
+|---|---|---|---|
+| Wettbewerbsdichte | 4 | **2** | Das Format existiert im Englischen etabliert. Belegt: Plainly Difficult, Brick Immortar (~393 Tsd. Abonnenten), Fascinating Horror, Scary Interesting, Military Expert (arbeitet ausdrücklich mit NTSB-, AAIB- und BEA-Berichten), dazu der offizielle CSB-Kanal (~417 Tsd. Abonnenten) mit eigenen Unfallanimationen. Der zentrale Grund 3 der Empfehlung in Abschnitt 5 – „schwächste Konkurrenz" – ist damit entfallen. |
+
+**Neue Summe K3: 19 von 25** (statt 22). K3 bleibt der beste der fünf
+Kandidaten, aber der Abstand ist deutlich kleiner, und der Kanal startet gegen
+sichtbare Konkurrenz statt in eine Lücke.
+
+**Zusätzliches, vorher nicht existierendes Risiko:** Sprecherqualität. Die
+Konkurrenz sind Muttersprachler mit wiedererkennbaren Stimmen. Vor Video 1 zu
+testen (Issue #7).
+
+### Was sich verbessert
+
+- **Bildrechte entspannen sich deutlich.** NTSB- und CSB-Berichte sind Werke
+  der US-Bundesregierung und in den USA gemeinfrei; RAIB, AAIB und MAIB stehen
+  unter der Open Government Licence (nutzbar mit Quellenangabe). Das in
+  Abschnitt 3 als Restrisiko benannte § 72-UrhG-Problem entfällt weitgehend.
+  Eigene Grafiken bleiben trotzdem Winkel-Baustein – jetzt aus
+  Gestaltungsgründen statt aus rechtlichem Zwang.
+  *(Laien-Recherche, keine Rechtsberatung.)*
+- **Größerer, besser erschlossener Quellenkorpus** in der Arbeitssprache: NTSB,
+  CSB, RAIB, AAIB, MAIB veröffentlichen umfangreich und durchsuchbar. Die
+  Nachschubfrage ist noch klarer gelöst als im Deutschen.
+- **Kein Übersetzungsrisiko mehr** an der empfindlichsten Stelle: Bericht und
+  Skript sind in derselben Sprache.
+
+### Was daraus folgt
+
+Der Winkel muss jetzt **gegen sichtbare Konkurrenz** differenzieren. Die
+Bausteine, die das leisten, und die Empfehlung zur Teilgebiets-Schärfung
+(Stromnetz, IT-/Infrastrukturausfälle, Bahn statt Luftfahrt und Seefahrt)
+stehen in [WINKEL.md](WINKEL.md), Abschnitt „Die Wettbewerbslage im
+Englischen".
+
+**Prüfauftrag bleibt offen:** Die Konkurrenzangaben oben stammen aus
+Suchtreffern und Aggregatoren, nicht aus direkt geprüften Kanalseiten (siehe
+Grenze 4 in Abschnitt 2). Vor der Teilgebiets-Entscheidung sind die genannten
+Kanäle direkt auf YouTube zu sichten: Wie viele Videos gibt es dort zu Bahn,
+Stromnetz und IT-Ausfällen wirklich, und wie gut sind sie?
+
+Quellen dieser Recherche:
+[Brick Immortar](https://www.youtube.com/BrickImmortar) ·
+[Plainly Difficult](https://www.youtube.com/c/PlainlyDifficult) ·
+[Military Expert](https://www.youtube.com/channel/UCsItkl0TvI4UBkQPRUPA5Kg) ·
+[U.S. Chemical Safety Board](https://en.wikipedia.org/wiki/U.S._Chemical_Safety_Board) ·
+[NTSB Accident Reports](https://www.ntsb.gov/investigations/AccidentReports/Pages/Reports.aspx)

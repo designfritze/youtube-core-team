@@ -6,6 +6,81 @@ Format angelehnt an Architecture Decision Records (ADR).
 
 ---
 
+## 2026-07-30 – Sprache: Englisch
+
+**Entscheidung:** Der Kanal wird **englischsprachig**. Skripte, Research-Briefs,
+Titel und Beschreibungen werden auf Englisch erstellt – keine
+Übersetzungsschicht zwischen Recherche und Skript.
+
+**Begründung des Projektinhabers:** größerer Markt, direkte internationale
+Reichweite.
+
+**Gegen die Empfehlung der Projektleitung entschieden.** Die Empfehlung lautete
+Deutsch, weil der Wettbewerbsvorteil von K3 auf einem *deutschsprachigen*
+Negativbefund beruhte. Die Entscheidung ist getroffen; die Konsequenzen sind
+eingearbeitet statt weggeglättet (Nachtrag 9 in
+[NISCHEN-BEWERTUNG.md](NISCHEN-BEWERTUNG.md)):
+
+**Was schlechter wird:**
+- **Wettbewerbsdichte 4 → 2.** Das Format existiert im Englischen etabliert:
+  Plainly Difficult, Brick Immortar (~393 Tsd. Abonnenten), Fascinating Horror,
+  Scary Interesting, Military Expert (arbeitet ausdrücklich mit NTSB-, AAIB- und
+  BEA-Berichten) – dazu der offizielle CSB-Kanal mit ~417 Tsd. Abonnenten. Der
+  Winkel muss jetzt gegen sichtbare Konkurrenz bestehen, nicht gegen eine Lücke.
+- **Neues Risiko: Sprecherqualität.** Die Konkurrenz sind Muttersprachler mit
+  wiedererkennbaren Stimmen. Ein hörbarer Akzent untergräbt ein Format, dessen
+  Kern Präzision ist. Vor Video 1 zu testen (Issue #7).
+
+**Was besser wird:**
+- **Bildrechte entspannen sich deutlich.** NTSB- und CSB-Berichte sind Werke der
+  US-Bundesregierung und damit in den USA gemeinfrei; britische Berichte (RAIB,
+  AAIB, MAIB) stehen unter der Open Government Licence, nutzbar mit
+  Quellenangabe. Das deutsche Problem – § 5 UrhG befreit den Text, nicht die
+  Fotos (§ 72 UrhG) – entfällt weitgehend. *(Laien-Recherche, keine
+  Rechtsberatung; vor Produktionsbeginn zu prüfen.)*
+- **Größerer und besser erschlossener Quellenkorpus:** NTSB, CSB, RAIB, AAIB,
+  MAIB veröffentlichen umfangreich, durchsuchbar und in der Arbeitssprache.
+
+**Folgeempfehlung (keine Entscheidung, aber dringend):** Innerhalb von K3 auf
+die Teilgebiete zielen, die im Englischen dünn besetzt sind – **Stromnetz,
+IT-/Infrastrukturausfälle, Bahn** – statt auf Luftfahrt und Seefahrt, die von
+den etablierten Kanälen bedient werden. Details in [WINKEL.md](WINKEL.md).
+
+---
+
+## 2026-07-30 – Budget-Deckel Phase 1: 600 €
+
+**Entscheidung:** Der Budget-Deckel für Phase 1 beträgt **600 € gesamt**
+(Richtwert ~30 € pro Video), gerechnet auf 20 Videos. Umfasst KI-Modellnutzung,
+Software-Abos, Musik- und Assetlizenzen. Nicht enthalten: die Arbeitszeit des
+Projektinhabers.
+
+**Begründung:** Weil Stimme, Schnitt und Grafik selbst erbracht werden,
+entfallen die größten üblichen Kostenblöcke. Der Deckel ist eine harte Grenze –
+bei Erreichen ohne Sicht auf die Erfolgskriterien greift „Stopp und Review"
+laut [PHASE-1-KRITERIEN.md](PHASE-1-KRITERIEN.md).
+
+---
+
+## 2026-07-30 – Phase-1-Kriterien beschlossen (Zeitrahmen 9 Monate)
+
+**Entscheidung:** Die Vorschlagswerte werden übernommen – Ø-Retention ≥ 40 %,
+Ø-CTR ≥ 4 %, ≥ 1.000 Abonnenten, steigende Tendenz, gemessen an den **letzten
+10** von 20 Videos. **Abweichung vom Vorschlag: Der Zeitrahmen beträgt 9 statt
+6 Monate.**
+
+**Begründung der Verlängerung:** realistischere Taktung neben anderer Arbeit;
+die Produktion bleibt qualitätsgetrieben statt terminfixiert. Preis: Die
+Go/No-Go-Entscheidung verschiebt sich entsprechend nach hinten.
+
+**Ab jetzt gilt:** Diese Werte werden nicht mehr angepasst – auch nicht mit
+guter Begründung ([CLAUDE.md](../CLAUDE.md), harte Grenze 4).
+
+**Erledigt damit:** Issues #2 und #4. **M1 ist abgeschlossen bis auf das
+Kanal-Setup (#5).**
+
+---
+
 ## 2026-07-30 – Nische und Winkel beschlossen: K3 „Rekonstruktion"
 
 **Entscheidung:** Phase 1 wird mit der Nische **K3 „Rekonstruktion"** gebaut –
@@ -137,11 +212,18 @@ fehlinterpretiert.
 
 - ~~Nische~~ → beschlossen: K3 „Rekonstruktion" (2026-07-30)
 - ~~Unkopierbarer Winkel~~ → beschlossen und ausformuliert: [WINKEL.md](WINKEL.md) (2026-07-30)
-- **Sprache: Deutsch oder Englisch** – Entscheidungsvorlage in Issue #2.
-  Kurzfassung: K3 hat seinen Wettbewerbsvorteil nur im deutschsprachigen Markt,
-  und der Projektinhaber spricht selbst. **Wartet auf Entscheidung.**
-- **Finale Werte der Phase-1-Kriterien inkl. Budget-Deckel** (Issue #4) –
-  der Budget-Deckel ist die einzige Zahl, die nur der Projektinhaber kennt.
+- ~~Sprache~~ → beschlossen: Englisch (2026-07-30)
+- ~~Phase-1-Kriterien und Budget-Deckel~~ → beschlossen: 600 €, 9 Monate (2026-07-30)
+
+**Alle M1-Grundsatzentscheidungen sind gefallen.** Offen bleibt nur die
+operative Umsetzung: Kanal-Setup (#5).
+
+### Verschoben (bewusst nicht jetzt)
+
+- Teilgebiets-Schärfung innerhalb von K3 (Stromnetz/IT/Bahn statt Luftfahrt) –
+  Empfehlung liegt in [WINKEL.md](WINKEL.md), Entscheidung sinnvoll nach den
+  ersten Research-Briefs statt vorab am Reißbrett.
+- Ablösung des Sprecher-Engpasses (Stimmklon, weitere Sprecher) → Phase 3.
 
 ## Verschoben / für später notiert
 

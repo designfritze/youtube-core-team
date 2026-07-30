@@ -85,16 +85,29 @@ Projektwissen liegt ausschließlich in diesem Repository.
   Seitenzahlpflicht, Pflichtsegment „was im Bericht nicht steht",
   Winkeltreue-Prüfpunkt mit Veto).
 
-**Was jetzt beim Projektinhaber liegt (zwei Entscheidungen, dann ist M1 fertig):**
-1. **Sprache (#2)** – Entscheidungsvorlage liegt im Issue. Kurz: alles spricht
-   für Deutsch (K3-Wettbewerbsvorteil existiert nur dort, und der Sprecher
-   ist der Projektinhaber selbst).
-2. **Phase-1-Kriterien + Budget-Deckel (#4)** – die Werte sind vorgeschlagen,
-   nur der Budget-Deckel kann niemand außer ihm setzen.
+- **Beschlossen (#2, #4 geschlossen): Sprache Englisch**, Budget-Deckel
+  **600 €** (~30 €/Video), Zeitrahmen **9 Monate**, übrige Kriterienwerte wie
+  vorgeschlagen. [PHASE-1-KRITERIEN.md](docs/PHASE-1-KRITERIEN.md) ist damit
+  **BESCHLOSSEN** und wird nicht mehr geändert.
+- **Konsequenz der Sprachwahl, eingearbeitet (Nachtrag 9 der Bewertung):**
+  Wettbewerbsdichte 4 → 2, weil das Format im Englischen etabliert existiert
+  (Plainly Difficult, Brick Immortar, Fascinating Horror, Military Expert,
+  CSB-Kanal). Neue Summe K3: 19/25. Im Gegenzug entspannen sich die
+  Bildrechte deutlich (NTSB/CSB gemeinfrei, RAIB/AAIB/MAIB unter Open
+  Government Licence), und die Primärquellen sind in der Arbeitssprache.
 
-**Ohne Rückfrage ausführbar, sobald die Sprache steht:** `[SPRACHE]`-Platzhalter
-in [agents/](agents/README.md) füllen, dann M2 beginnen – Skript-Template und
-Hook-Formate (#6), Thumbnail-Prozess (#8).
+**M1 ist damit inhaltlich abgeschlossen. Offen ist nur noch #5 (Kanal-Setup).**
+
+**Nächste Schritte, ohne Rückfrage ausführbar:**
+1. **M2 starten:** Skript-Template und Hook-Formate (#6), Thumbnail-Prozess (#8)
+2. **Vor Video 1 zwingend:** englische Probeaufnahme bewerten (#7) und die
+   Pflicht-Nacharbeit an den Policy-Originalquellen erledigen (siehe unten)
+
+**Offene Empfehlung, bewusst nicht entschieden:** Teilgebiets-Schärfung
+innerhalb von K3 auf Stromnetz, IT-/Infrastrukturausfälle und Bahn statt
+Luftfahrt/Seefahrt (dort ist die englische Konkurrenz am stärksten). Sinnvoll
+nach den ersten Research-Briefs, nicht vorab – siehe „Verschoben" im
+Decision Log.
 
 **Offene Pflicht-Nacharbeit vor Produktionsbeginn:** Die Policy-Recherche
 konnte nicht am Originaltext gegengelesen werden (die Umgebung blockierte
